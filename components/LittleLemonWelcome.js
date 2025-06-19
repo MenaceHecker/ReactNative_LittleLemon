@@ -7,7 +7,7 @@ export default function LittleLemonHeader() {
         Welcome to Little Lemon
         </Text>
         <Text style={{fontSize: 28, marginVertical: 8, color: 'white', padding: 12, textAlign: 'center', fontFamily: 'sans-serif'}}>
-        Little Lemon is a charming neighborhood bistro that serves simple food and classic cocktails in a lively but casual environment. We would love to hear more about your experience with us!
+        Little Lemon is not so charming neighborhood bistro (I might not work on this anymore)  that serves simple food and classic cocktails in a lively but casual environment. We would love to hear more about your experience with us!
         </Text>
    </View> 
   );
